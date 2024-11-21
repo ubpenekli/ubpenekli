@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubpenekli" alt="ubpenekli" /></a> </p>
 
-- 🔭 I’m currently working on PHP - Laravel 9
-
-- 🌱 I’m currently learning **Selenium**
+- 🔭 I’m currently working on PHP - Laravel 11
 
 - 👨‍💻 All of my projects are available at [https://github.com/ubpenekli](https://github.com/ubpenekli)
 
